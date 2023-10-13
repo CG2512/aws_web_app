@@ -1,4 +1,8 @@
 dsfasdfasdfasforhueguhoegihorgijf
 second
 emp1:Third Line
+<<<<<<< HEAD
+emp3:Fourth Line
+=======
 emp1: Fourth line
+>>>>>>> emp1
